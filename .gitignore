@@ -1,0 +1,9 @@
+# Archivos compilados
+*.exe
+*.o
+*.ppu
+
+# Archivos de respaldo / temporales
+*.bak
+*.tmp
+
